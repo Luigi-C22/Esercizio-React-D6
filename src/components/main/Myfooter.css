@@ -1,0 +1,20 @@
+.footer{
+    height: 9rem;
+}
+.copyRi{
+    margin-top: 5%;
+    font-size: .7rem;
+    font-family: 'Couier New', Courier, monospace;
+    color: white;
+    text-align: center;
+    
+
+}
+.socialTxt{
+    margin-top: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: .7rem;
+    color: white;
+    text-align: left;
+    
+}
