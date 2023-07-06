@@ -7,7 +7,7 @@ const Welcome = () => {
 
         return (
 
-            <Carousel className='mb-4' >
+            <Carousel className='mb-3' >
                 {carouselItems.map((item) => {
                     return (
                         <Carousel.Item key={nanoid()}>
